@@ -12,6 +12,7 @@ modified_time: '2012-04-17T09:21:20.879-04:00'
 thumbnail: http://2.bp.blogspot.com/-pLFDH_0m1iQ/ToUEBLfTx1I/AAAAAAAAAJo/EOlQuwdFdd4/s72-c/Arduino.png
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-6262324288126276214
 blogger_orig_url: http://www.breakcontinue.com/2011/03/fritzing-part-for-fez-mini.html
+permalink: /2011/03/fritzing-part-for-fez-mini.html
 ---
 
 When I was learning about Arduino, I always liked images that show how to connect different components to Arduino board. Like the one below:

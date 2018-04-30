@@ -11,6 +11,7 @@ modified_time: '2011-10-11T00:33:12.125-04:00'
 thumbnail: http://1.bp.blogspot.com/-kBRUxM80HvE/TpJtn5i8y7I/AAAAAAAAALk/OS76rNcgg9Q/s72-c/39648_large.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-1286388324302623729
 blogger_orig_url: http://www.breakcontinue.com/2011/10/gadgeteer-poe-module-is-here.html
+permalink: /2011/10/gadgeteer-poe-module-is-here.html
 ---
 
 I have designed POE Module for [Microsoft Gadgeteer](http://www.netmf.com/gadgeteer/). I received pcb boards last week from [DorkbotPDX](http://www.dorkbotpdx.org/wiki/pcb_order) (awesome service by the way). The boards are of a great quality and look very nice.

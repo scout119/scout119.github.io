@@ -8,6 +8,7 @@ modified_time: '2011-09-29T20:03:29.519-04:00'
 thumbnail: http://2.bp.blogspot.com/-4aIAPXw84P4/ToOZI_mUzvI/AAAAAAAAAJU/D0hj-nPstWA/s72-c/NasSabnzbd.png
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-7161626105223888269
 blogger_orig_url: http://www.breakcontinue.com/2010/01/thecus-n4100pro-nas-sabnzbd-module.html
+permalink: /2010/01/thecus-n4100pro-nas-sabnzbd-module.html
 ---
 
 I got Thecus N4100PRO NAS this summer and have been looking for a usenet module for it since then. Decided to do another search today and guess what I have found:

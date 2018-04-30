@@ -8,6 +8,7 @@ modified_time: '2011-09-29T20:03:19.883-04:00'
 thumbnail: http://4.bp.blogspot.com/-qb65hzDkK7c/ToOg7YIgO8I/AAAAAAAAAJY/-vfDYlCpX30/s72-c/chesapeake.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-7282172288826558240
 blogger_orig_url: http://www.breakcontinue.com/2010/01/ice-tube-clock.html
+permalink: /2010/01/ice-tube-clock.html
 ---
 
 January 30 was not a usual winter day for Chesapeake, VA.

@@ -8,6 +8,7 @@ modified_time: '2012-01-20T17:41:37.813-05:00'
 thumbnail: http://4.bp.blogspot.com/-gbWBuh43KLA/ToUCLi41A6I/AAAAAAAAAJk/9iJUy2hlN3o/s72-c/SSD1306.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-7598050169105157644
 blogger_orig_url: http://www.breakcontinue.com/2011/01/managed-driver-for-monochrome-128x64.html
+permalink: /2011/01/managed-driver-for-monochrome-128x64.html
 ---
 
 I got my hands on the new Monochrome OLED graphic display from [Adafruit](http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=37&amp;products_id=326). I absolutely love it. This is a great addition to my gadgets.

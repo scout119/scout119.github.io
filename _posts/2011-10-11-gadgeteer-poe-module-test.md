@@ -12,6 +12,7 @@ modified_time: '2011-10-11T10:01:09.782-04:00'
 thumbnail: http://1.bp.blogspot.com/-I8DuetNLjfw/TpPEwUeSVOI/AAAAAAAAAMM/CZah3H6UuE8/s72-c/IMG_20111010_181630.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-8864519974329670752
 blogger_orig_url: http://www.breakcontinue.com/2011/10/gadgeteer-poe-module-test.html
+permalink: /2011/10/gadgeteer-poe-module-test.html
 ---
 
 Tonight I have tested the module. The test application gets [rss feed](http://www.ghielectronics.com/rss/) and shows first 4 entries on the display module. Everything worked as it should.
