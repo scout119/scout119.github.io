@@ -12,7 +12,7 @@ blogger_orig_url: http://www.breakcontinue.com/2011/01/managed-driver-for-monoch
 
 I got my hands on the new Monochrome OLED graphic display from [Adafruit](http://www.adafruit.com/index.php?main_page=product_info&amp;cPath=37&amp;products_id=326). I absolutely love it. This is a great addition to my gadgets.
 
-My main dev board is [FEZ Panda](http://www.tinyclr.com/hardware/16/fez-panda/) from GHI Electronics. It is a .Net Micro Framework device with a great set of features. I looked for a managed driver for the display and couldn't find any, so I have ported the [arduino library](https://github.com/adafruit/SSD1306) that is provided by Adafruit.
+My main dev board is [FEZ Panda](http://www.tinyclr.com/hardware/16/fez-panda/) from GHI Electronics. It is a .Net Micro Framework device with a great set of features. I looked for a managed driver for the display and couldn't find any, so I have ported the [arduino library](https://github.com/adafruit/Adafruit_SSD1306) that is provided by Adafruit.
 
 It didn't work from the first try. I have arduino board as well, so I have tried the orginal library with no success. I almoust got to the point of returning the display, but decided to take a closer look and found that there were two bridges on some pins at the back of the display board.
 
