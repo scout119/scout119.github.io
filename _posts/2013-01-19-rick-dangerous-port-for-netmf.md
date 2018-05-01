@@ -25,7 +25,7 @@ _Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was 
 _**xrick** is a clone of Rick Dangerous, known to run on Linux, Windows, BeOs, Amiga, QNX, all sorts of gaming consoles... download and install the game, learn how to play, and enjoy!_
 
 It took some time, but here it is, running on Gadgeteer (FEZ Spider).
-{% youtube SU97StIcV80 %}
+{% include youtubePlayer.html id=SU97StIcV80 %}
 
 I have ported all C code from xrick to C#. The main difference between my code and xrick is how data is organized and stored. xrick uses a 8x8 pixels tiles as as smallest unit. There are 3 pages of 256 tiles each.
 

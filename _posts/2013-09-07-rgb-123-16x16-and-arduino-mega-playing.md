@@ -26,7 +26,7 @@ The game is a NETMF application written in C#. You can find it [here](https://ww
 
 A fellow maker and inventor Ryan O'Hara is running a Kickstarter campaign for his awesome [RGB-123 Led Matrices](http://www.kickstarter.com/projects/311408456/rgb-123-led-matrices) He was very kind to offer the 16x16 version of the board to help me see if I can get the game up and running on it. The RGB-123 is based on WS2812 RGB LEDs. [Adafruit Industries](http://www.adafruit.com/) has a great Arduino library - [NeoPixel for Arduino](https://github.com/adafruit/Adafruit_NeoPixel) - that can be used to drive WS2812 LED strips. RGB-123 16x16 is a LED strip that is arranged in square using a zig-zag like pattern, so the library is perfect for that. I have decided to use Arduino Mega as the controller to run the game, since Uno might be not enough due to smaller RAM. Couple of nights later I came up with this:
 
-{% youtube BBl3EjRrQ4Y %}
+{% include youtubePlayer.html id=BBl3EjRrQ4Y %}
 
 I am using Wii Classic to control the game. If you use something else, you will need to change just one function (readButtons) and you should be good. More shots:
 
