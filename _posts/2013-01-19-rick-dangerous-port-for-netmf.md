@@ -25,7 +25,7 @@ Fortunately there is a clone of the game in C - **xrick** from [BigOrno.net](htt
 _Way before Lara Croft, back in the 1980's and early 1990's, Rick Dangerous was the Indiana Jones of computer games, running away from rolling rocks, avoiding traps, from South America to a futuristic missile base via Egypt and the Schwarzendumpf castle._  
 _**xrick** is a clone of Rick Dangerous, known to run on Linux, Windows, BeOs, Amiga, QNX, all sorts of gaming consoles... download and install the game, learn how to play, and enjoy!_
 
-{% include youtubePlayer.html id=page.SU97StIcV80 %}
+{% include youtubePlayer.html id=SU97StIcV80 %}
 
 It took some time, but here it is, running on Gadgeteer (FEZ Spider).
 
