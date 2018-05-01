@@ -12,9 +12,7 @@ modified_time: '2013-05-09T18:16:49.998-04:00'
 thumbnail: http://2.bp.blogspot.com/-r0-2pBNd2Cs/TzBVwjDjdZI/AAAAAAAAAVE/N_PgesVTUZM/s72-c/DLChain.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-5232244073452275559
 blogger_orig_url: http://www.breakcontinue.com/2012/02/gadgeteer-daisylink-protocol.html
-permalink: /2012/02/gadgeteer-daisylink-protocol.html
 ---
-
 If you have visited my blog before, you most likely know that I have built several modules for the Microsoft Gadgeteer platform. So far I have only tried simple modules (with the exception of POE module). What I haven't tried yet is a DaisyLink module. DaisyLink module is a special (smart) breed of modules because it has to have a dedicated controller in order to communicate with the main board. Recently I had a chance to finally built a module like that and I would like to share my experience in that area. There is a lot to write about, so I will do it in multiple posts. This is the first post where we look at the DaisyLink protocol.
 
 Why does a DaisyLink module need its own MCU on board? A DaisyLink module can be a part of a long chain of modules connected to each other.

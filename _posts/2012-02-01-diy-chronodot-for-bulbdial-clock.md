@@ -12,9 +12,7 @@ modified_time: '2012-02-03T14:00:35.729-05:00'
 thumbnail: http://1.bp.blogspot.com/-uY1CiJZiIHk/Txc9PT_2stI/AAAAAAAAATI/p6jbeUnjIGw/s72-c/3367455284_733ccbdb3a_b.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-5506899159068279342
 blogger_orig_url: http://www.breakcontinue.com/2011/12/diy-chronodot-for-bulbdial-clock.html
-permalink: /2011/12/diy-chronodot-for-bulbdial-clock.html
 ---
-
 A friend from work gave me a really nice present this Christmas - [Bulbdial Clock Kit](http://www.evilmadscientist.com/article.php/bulbdialkit) made by [Evil Mad Scientist Laboratories](http://www.evilmadscientist.com/). This clock is excellent addition to my collection of Ice Tube Clock and Monochron Clock. I have really enjoyed building it. It looks so cool with all its RGB LEDs. There is an optional component that you can add - a real time clock (RTC) with battery back up. It is called Chronodot RTC. All it does is ensure that clock is still ticking when main power source is removed, that way you don't have to reset the clock every time power cord is unplugged. A nice feature to have on any externally powered clock. You can buy one, but where is fun in that?! So I have decided to build my own. By the way this is what Chronodot looks like:
 
 ![img1](http://1.bp.blogspot.com/-uY1CiJZiIHk/Txc9PT_2stI/AAAAAAAAATI/p6jbeUnjIGw/s1600/3367455284_733ccbdb3a_b.jpg)

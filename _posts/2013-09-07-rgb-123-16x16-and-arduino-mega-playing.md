@@ -12,7 +12,6 @@ modified_time: '2013-09-07T13:54:15.991-04:00'
 thumbnail: http://2.bp.blogspot.com/-7Wq_tCv0xBw/UitoOS7jV5I/AAAAAAAAAgg/GpkHz_Yz5Tw/s72-c/matrix.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-1159449799765783067
 blogger_orig_url: http://www.breakcontinue.com/2013/09/rgb-123-16x16-and-arduino-mega-playing.html
-permalink: /2013/09/rgb-123-16x16-and-arduino-mega-playing.html
 ---
 ![img1](http://2.bp.blogspot.com/-7Wq_tCv0xBw/UitoOS7jV5I/AAAAAAAAAgg/GpkHz_Yz5Tw/s1600/matrix.jpg)
 

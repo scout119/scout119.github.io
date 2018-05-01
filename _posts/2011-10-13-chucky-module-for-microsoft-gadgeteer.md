@@ -12,9 +12,7 @@ modified_time: '2012-03-10T23:44:01.004-05:00'
 thumbnail: http://2.bp.blogspot.com/-zQY0PsnKcVQ/TpZvf-9grSI/AAAAAAAAANQ/6D0Y6RG6vp8/s72-c/IMG_3707.JPG
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-8050488342411309543
 blogger_orig_url: http://www.breakcontinue.com/2011/10/chucky-module-for-microsoft-gadgeteer.html
-permalink: /2011/10/chucky-module-for-microsoft-gadgeteer.html
 ---
-
 This is my third module so far. It is the simplest one. It has no components beside the connector.
 
 ![img1](http://2.bp.blogspot.com/-zQY0PsnKcVQ/TpZvf-9grSI/AAAAAAAAANQ/6D0Y6RG6vp8/s1600/IMG_3707.JPG)

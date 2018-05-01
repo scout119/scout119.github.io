@@ -12,9 +12,7 @@ modified_time: '2011-11-04T14:02:26.521-04:00'
 thumbnail: http://3.bp.blogspot.com/-YRzXSVMJRaw/TrQmAZBVAlI/AAAAAAAAAPE/l55645ANhF8/s72-c/Hydra.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-2719454117622712494
 blogger_orig_url: http://www.breakcontinue.com/2011/11/new-gadgeteer-main-module-from-ghi-200.html
-permalink: /2011/11/new-gadgeteer-main-module-from-ghi-200.html
 ---
-
 The news has been on the forum for awhile now, but now we have a full image of the board.
 
 ![top](http://3.bp.blogspot.com/-YRzXSVMJRaw/TrQmAZBVAlI/AAAAAAAAAPE/l55645ANhF8/s1600/Hydra.jpg)

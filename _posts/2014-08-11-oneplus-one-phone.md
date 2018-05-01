@@ -11,7 +11,6 @@ modified_time: '2014-08-11T14:34:47.472-04:00'
 thumbnail: http://1.bp.blogspot.com/-M9ie4w3ZN7c/U-kLvB_TyyI/AAAAAAAABgI/7ZwsWANbrOI/s72-c/cm-camera.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-5914377434155089202
 blogger_orig_url: http://www.breakcontinue.com/2014/08/oneplus-one-phone.html
-permalink: /2014/08/oneplus-one-phone.html
 ---
 ![img1](http://1.bp.blogspot.com/-M9ie4w3ZN7c/U-kLvB_TyyI/AAAAAAAABgI/7ZwsWANbrOI/s1600/cm-camera.jpg)
 

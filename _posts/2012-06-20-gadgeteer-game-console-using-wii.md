@@ -12,9 +12,7 @@ modified_time: '2013-05-14T11:34:52.776-04:00'
 thumbnail: http://3.bp.blogspot.com/-jJ1GUjUS4FU/T-KDBZ7nRII/AAAAAAAAAYM/YKs90a13wHI/s72-c/IMG_4287.JPG
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-1983980462702264392
 blogger_orig_url: http://www.breakcontinue.com/2012/06/gadgeteer-game-console-using-wii.html
-permalink: /2012/06/gadgeteer-game-console-using-wii.html
 ---
-
 A while ago I made a [module (Chucky)](http://www.breakcontinue.com/2011/10/chucky-module-for-microsoft-gadgeteer.html) that allows to connect a Wii classic controller to a Gadgeteer mainboard. Finally got some time to build a mounting rig that attaches to a Wii controller and allows you to put all necessary modules. The goal was to make it easy to assemble/disassemble and no extra modifications for the Wii controller. Here is what I have ended up with:
 
 ![im1](http://3.bp.blogspot.com/-jJ1GUjUS4FU/T-KDBZ7nRII/AAAAAAAAAYM/YKs90a13wHI/s1600/IMG_4287.JPG)

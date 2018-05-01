@@ -12,9 +12,7 @@ modified_time: '2012-01-26T09:22:19.810-05:00'
 thumbnail: http://4.bp.blogspot.com/-7TXVaMi_Gp4/TrnpGn4F70I/AAAAAAAAAPc/ccLF13JrJq4/s72-c/fez_hydra_socket_map.png
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-9114617920648643415
 blogger_orig_url: http://www.breakcontinue.com/2011/11/fez-hydra-100-oshw-net-gadgeteer-module.html
-permalink: /2011/11/fez-hydra-100-oshw-net-gadgeteer-module.html
 ---
-
 I wrote about FEZ Hydra in my last post and now we have all the [details](http://www.ghielectronics.com/catalog/product/328). It is 100% open source including hardware design as well as the port of .NET Microframework that can be compiled using GCC toolchain. According to Gus Issa, this board was designed with three main goals:
 
 1. Open source

@@ -14,9 +14,7 @@ modified_time: '2013-07-28T20:23:21.467-04:00'
 thumbnail: http://4.bp.blogspot.com/-w-i2lkxH3Zk/UfWtKr2nWNI/AAAAAAAAAeI/nWqeHM4rNB0/s72-c/448-0_large.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-8022167741914681396
 blogger_orig_url: http://www.breakcontinue.com/2013/07/new-netmf-device-game-o.html
-permalink: /2013/07/new-netmf-device-game-o.html
 ---
-
 There were some talks on the [community forum pages](https://www.ghielectronics.com/community) about this device for awhile. I have been waiting for it with a great anticipation. Finally, a week ago we got the official [announcement](https://www.ghielectronics.com/community/forum/topic?id=12661).
 
 ![img1](http://4.bp.blogspot.com/-w-i2lkxH3Zk/UfWtKr2nWNI/AAAAAAAAAeI/nWqeHM4rNB0/s1600/448-0_large.jpg)

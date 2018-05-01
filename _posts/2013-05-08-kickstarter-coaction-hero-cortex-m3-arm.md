@@ -12,9 +12,7 @@ modified_time: '2013-05-14T11:30:26.178-04:00'
 thumbnail: http://2.bp.blogspot.com/-6KRZXUE2ppQ/UYr63bjIFMI/AAAAAAAAAcA/QPbUWD7S_o0/s72-c/photo-main.jpg
 blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-8894476938571421139
 blogger_orig_url: http://www.breakcontinue.com/2013/05/kickstarter-coaction-hero-cortex-m3-arm.html
-permalink: /2013/05/kickstarter-coaction-hero-cortex-m3-arm.html
 ---
-
 I have been supporting some project on [KickStarter](http://www.kickstarter.com/) recently and I would like to mention some of these projects on this blog.
 
 First one that I am excited to get my hands on is CoAction Hero board:
