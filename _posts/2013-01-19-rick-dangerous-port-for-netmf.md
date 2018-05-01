@@ -14,7 +14,6 @@ blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-29941423199863834
 blogger_orig_url: http://www.breakcontinue.com/2013/01/rick-dangerous-port-for-netmf.html
 permalink: /2013/01/rick-dangerous-port-for-netmf.html
 ---
-
 I wanted to have a good game for my [Gadgeteer Game Console](http://www.breakcontinue.com/2012/06/gadgeteer-game-console-using-wii.html). [Rick Dangerous](http://en.wikipedia.org/wiki/Rick_Dangerous) is an old classic game that I played long time ago and really liked.
 
 ![img1](http://3.bp.blogspot.com/-eOpl6GVJBok/UQCfRkbNUHI/AAAAAAAAAaE/c42NTRjK8CQ/s1600/splash.bmp)
