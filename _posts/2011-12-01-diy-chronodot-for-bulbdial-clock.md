@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DIY Chronodot for Bulbdial Clock
-date: '2012-02-01T01:43:00.000-05:00'
+date: '2011-12-01T01:43:00.000-05:00'
 author: Valentin Ivanov
 tags:
 - Bulbdial
