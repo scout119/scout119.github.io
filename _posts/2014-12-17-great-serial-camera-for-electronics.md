@@ -12,10 +12,8 @@ tags:
 - Electronics
 modified_time: '2015-01-28T13:54:19.800-05:00'
 thumbnail: http://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s72-c/1b0acd6571c068cc923553ce656ae1b4_large.jpg
-blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-5950237593285031945
-blogger_orig_url: http://www.breakcontinue.com/2014/12/great-serial-camera-for-electronics.html
 ---
-![img1](http://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s1600/1b0acd6571c068cc923553ce656ae1b4_large.jpg)
+![img1](https://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s1600/1b0acd6571c068cc923553ce656ae1b4_large.jpg)
 
 I have a project in mind for a long time now. To make a time lapse video of tree in my backyard. I cut it branches (6-8' each) in the spring and by the end of the summer it grows it back. It is amazing. Was not sure what camera to use for that project. I think I have found it now on Kick Starter. ALCAM camera made by [GHI Electronics](https://www.ghielectronics.com/). Here is the specification:
 
