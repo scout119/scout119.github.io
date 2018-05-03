@@ -8,16 +8,13 @@ tags:
 - GHI Electronics
 - Arduino
 - Gadgeteer
-modified_time: '2013-05-09T18:16:49.998-04:00'
 thumbnail: http://2.bp.blogspot.com/-r0-2pBNd2Cs/TzBVwjDjdZI/AAAAAAAAAVE/N_PgesVTUZM/s72-c/DLChain.jpg
-blogger_id: tag:blogger.com,1999:blog-5161433332962744423.post-5232244073452275559
-blogger_orig_url: http://www.breakcontinue.com/2012/02/gadgeteer-daisylink-protocol.html
 ---
 If you have visited my blog before, you most likely know that I have built several modules for the Microsoft Gadgeteer platform. So far I have only tried simple modules (with the exception of POE module). What I haven't tried yet is a DaisyLink module. DaisyLink module is a special (smart) breed of modules because it has to have a dedicated controller in order to communicate with the main board. Recently I had a chance to finally built a module like that and I would like to share my experience in that area. There is a lot to write about, so I will do it in multiple posts. This is the first post where we look at the DaisyLink protocol.
 
 Why does a DaisyLink module need its own MCU on board? A DaisyLink module can be a part of a long chain of modules connected to each other.
 
-![im1](http://2.bp.blogspot.com/-r0-2pBNd2Cs/TzBVwjDjdZI/AAAAAAAAAVE/N_PgesVTUZM/s1600/DLChain.jpg)
+![im1](https://2.bp.blogspot.com/-r0-2pBNd2Cs/TzBVwjDjdZI/AAAAAAAAAVE/N_PgesVTUZM/s1600/DLChain.jpg)
 
 One chain can have more modules than the number of pins that are available on the socket that the chain is connected to. So we would need a smart way of communication that requires a minimal number of physical connections. The main board needs a way to distinguish and address each individual module in the chain as well. In other words, the main board should be able to assign an address to a module and the module should remember that address in some sort of memory. The communication between the main board and a module should also be generic enough and independent from the actual functionality that is provided by that module. In order to meet these requirements the Gadgeteer team designed a special protocol - the DaisyLink protocol. This protocol has to be implemented on a module's micro controller.
 
@@ -25,11 +22,11 @@ One chain can have more modules than the number of pins that are available on th
 
 Before we start looking at the protocol details lets take a look at the module's memory organization. As mentioned before, each module is given an address by the main board and that address is stored, along with some other settings, in the module's Memory Map. The total size of the Memory Map is 256 bytes. The first 8 bytes are allocated for the DaisyLink infrastructure.
 
-Remaining 248 are available for the module. This module-specific area of the map is the mechanism of controlling the module. As the module designer, you will lay out this map by defining your own registers that required to tell your module what to do as well as registers to store results of these actions if needed. For example this is the map layout for the GHI's [Smart Multicolor LED Module](http://www.ghielectronics.com/catalog/product/272).
+Remaining 248 are available for the module. This module-specific area of the map is the mechanism of controlling the module. As the module designer, you will lay out this map by defining your own registers that required to tell your module what to do as well as registers to store results of these actions if needed. For example this is the map layout for the GHI's [Smart Multicolor LED Module](https://www.ghielectronics.com/catalog/product/272).
 
 For example, byte at address 11 controls mode of the module (On, Off, Blinking, etc.)
 
-![im2](http://1.bp.blogspot.com/-nrPDnRAQ5Sk/T0lEu_nnvrI/AAAAAAAAAWQ/iInlMmVhWSo/s1600/Map.jpg)
+![im2](https://1.bp.blogspot.com/-nrPDnRAQ5Sk/T0lEu_nnvrI/AAAAAAAAAWQ/iInlMmVhWSo/s1600/Map.jpg)
 
 # Wiring
 
@@ -39,11 +36,11 @@ If you have never worked with I2C, I strongly recommend to read about it on the 
 
 I2C bus requires two pull-up resistors for both lines. At first, it would make sense to put these resistors on the main board, but that would limit the use of the socket. So the decision was to have a pair of pull-up resistors (10k) on each module. Each module should be able to switch these resistors on and off. This will ensure to have only one pair of active resistor on the bus. The protocol specification shows how to use a transistor to implement a switchable pull-up. We will be using the other way of doing it by utilizing tri-state ports on the micro controller. For example, in the schematic below, changing the pin 25 to digital out and setting it to HIGH will enable the SCL pull-up resistor; switching the pin to digital input will disable the pull-up. Same applies for the pin 26 for the SDA line.
 
-![im3](http://1.bp.blogspot.com/-az2WQU2qBXo/TzFFUAulblI/AAAAAAAAAVU/v5KBnSD55NA/s1600/DLpullup.jpg)
+![im3](https://1.bp.blogspot.com/-az2WQU2qBXo/TzFFUAulblI/AAAAAAAAAVU/v5KBnSD55NA/s1600/DLpullup.jpg)
 
 In addition to I2C wires, DaisyLink requires two more connections, one to the module or main board up the stream and one to the module down the stream. Here is the schematic view of both connectors:
 
-![im4](http://2.bp.blogspot.com/-QKsqd0oiYjQ/TzC9DCPnLsI/AAAAAAAAAVM/LbALjqNAA90/s1600/DLConnectors.jpg)
+![im4](https://2.bp.blogspot.com/-QKsqd0oiYjQ/TzC9DCPnLsI/AAAAAAAAAVM/LbALjqNAA90/s1600/DLConnectors.jpg)
 
 Upstream and downstream lines are pulled high on each module using 10K pull-up resistors. Pulling these lines down will allow a module and/or the main board to signal each other about the state changes. Notice the extra unused pins on each socket (pins 6,7,8 and 9). We will use them later during actual implementation of the module.
 
@@ -74,9 +71,9 @@ Nothing to do here. During this state the main board tries to read protocol vers
 
 Here is the image of the state of the neighbor lines (0 - upstream, 1- downstream).
 
-![im5](http://4.bp.blogspot.com/-9pSfHrANgVw/T0ZUARCGcPI/AAAAAAAAAV4/Gy-wTr-NRkQ/s1600/dl_init.png)
+![im5](https://4.bp.blogspot.com/-9pSfHrANgVw/T0ZUARCGcPI/AAAAAAAAAV4/Gy-wTr-NRkQ/s1600/dl_init.png)
 
-(The image above is taken from [SUMP Logic analyzer software](http://www.sump.org/projects/analyzer/). For hardware I used [BusPirate](http://dangerousprototypes.com/bus-pirate-manual/) )
+(The image above is taken from [SUMP Logic analyzer software](https://www.sump.org/projects/analyzer/). For hardware I used [BusPirate](https://dangerousprototypes.com/bus-pirate-manual/) )
 
 Reading and writing of the memory map is done by implementing standard I2C-based EEPROM interface
 
@@ -100,11 +97,11 @@ A **read transaction** includes the following bytes:
 
 I2C transactions to read version number:
 
-![im6](http://2.bp.blogspot.com/-xcj35o0xkn0/T0fzYeMD2jI/AAAAAAAAAWA/cJ-9FoqplL8/s1600/dl_init_1.png)
+![im6](https://2.bp.blogspot.com/-xcj35o0xkn0/T0fzYeMD2jI/AAAAAAAAAWA/cJ-9FoqplL8/s1600/dl_init_1.png)
 
 I2C transactions to assign new ID to the module:
 
-![im7](http://4.bp.blogspot.com/-55Efff3Hbpk/T0fzwdGd7VI/AAAAAAAAAWI/8Fk32iPXMkM/s1600/dl_init_2.png)
+![im7](https://4.bp.blogspot.com/-55Efff3Hbpk/T0fzwdGd7VI/AAAAAAAAAWI/8Fk32iPXMkM/s1600/dl_init_2.png)
 
 ## Active
 
@@ -120,5 +117,5 @@ I hope I have provided enough details about how the DaisyLink protocol works. If
 
 **Links:**
 
-1. [DaisyLink protocol specification (Gadgeteer Module builders guide (Appendix 1)](http://gadgeteer.codeplex.com/releases/view/105388)
-2. [Good I2C tutorial](http://www.best-microcontroller-projects.com/i2c-tutorial.html)
+1. [DaisyLink protocol specification (Gadgeteer Module builders guide (Appendix 1)](https://gadgeteer.codeplex.com/releases/view/105388)
+2. [Good I2C tutorial](https://www.best-microcontroller-projects.com/i2c-tutorial.html)
