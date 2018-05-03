@@ -10,7 +10,7 @@ tags:
 - STM32F4
 - Arduino
 - Electronics
-thumbnail: http://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s72-c/1b0acd6571c068cc923553ce656ae1b4_large.jpg
+image: https://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s72-c/1b0acd6571c068cc923553ce656ae1b4_large.jpg
 ---
 ![img1](https://1.bp.blogspot.com/-RqiJGIuaMWA/VMkwRaZVwzI/AAAAAAAAFRE/3ZrWNrtVDdE/s1600/1b0acd6571c068cc923553ce656ae1b4_large.jpg)
 
