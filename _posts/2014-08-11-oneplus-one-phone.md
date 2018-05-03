@@ -9,7 +9,7 @@ tags:
 - Android
 image: /img/2014-08-11-oneplus-one-phone.jpg
 ---
-![img1](https://1.bp.blogspot.com/-M9ie4w3ZN7c/U-kLvB_TyyI/AAAAAAAABgI/7ZwsWANbrOI/s1600/cm-camera.jpg)
+![img1](/img/2014-08-11-oneplus-one-phone.jpg)
 
 A very good friend got an invite and bought the [OnePlus One phone](https://oneplus.net/one#features). Yes, you need and invite from somebody who has an invite code available. The invites are given at some time by OnePlus team to individuals who already own the device and sometime randomly thought their online <[forums](https://forums.oneplus.net/).
 
