@@ -8,7 +8,6 @@ tags:
 - GHI Electronics
 - Electronics
 - Gadgeteer
-thumbnail: http://3.bp.blogspot.com/-jJ1GUjUS4FU/T-KDBZ7nRII/AAAAAAAAAYM/YKs90a13wHI/s72-c/IMG_4287.JPG
 ---
 A while ago I made a [module (Chucky)](https://www.breakcontinue.com/2011/10/chucky-module-for-microsoft-gadgeteer.html) that allows to connect a Wii classic controller to a Gadgeteer mainboard. Finally got some time to build a mounting rig that attaches to a Wii controller and allows you to put all necessary modules. The goal was to make it easy to assemble/disassemble and no extra modifications for the Wii controller. Here is what I have ended up with:
 

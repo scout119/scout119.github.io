@@ -3,8 +3,7 @@ layout: post
 title: Managed driver for Monochrome 128x64 OLED graphic display
 date: '2011-01-15T19:42:00.000-05:00'
 author: Valentin Ivanov
-tags: 
-thumbnail: http://4.bp.blogspot.com/-gbWBuh43KLA/ToUCLi41A6I/AAAAAAAAAJk/9iJUy2hlN3o/s72-c/SSD1306.jpg
+tags:
 ---
 I got my hands on the new Monochrome OLED graphic display from [Adafruit](https://www.adafruit.com/index.php?main_page=product_info&amp;cPath=37&amp;products_id=326). I absolutely love it. This is a great addition to my gadgets.
 

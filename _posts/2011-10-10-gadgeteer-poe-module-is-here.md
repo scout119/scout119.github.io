@@ -7,7 +7,6 @@ tags:
 - Electronics
 - FEZ Spider
 - Gadgeteer
-thumbnail: http://1.bp.blogspot.com/-kBRUxM80HvE/TpJtn5i8y7I/AAAAAAAAALk/OS76rNcgg9Q/s72-c/39648_large.jpg
 ---
 I have designed POE Module for [Microsoft Gadgeteer](https://www.netmf.com/gadgeteer/). I received pcb boards last week from [DorkbotPDX](https://www.dorkbotpdx.org/wiki/pcb_order) (awesome service by the way). The boards are of a great quality and look very nice.
 

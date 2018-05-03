@@ -7,7 +7,6 @@ tags:
 - Electronics
 - FEZ Spider
 - Gadgeteer
-thumbnail: http://1.bp.blogspot.com/-z11gbV9jFQs/TpUXDkkyTYI/AAAAAAAAAMc/DoyLItqFf0Q/s72-c/IMG_3705.JPG
 ---
 I made another module for Gadgeteer. If you need to add some noise, this module should help:
 

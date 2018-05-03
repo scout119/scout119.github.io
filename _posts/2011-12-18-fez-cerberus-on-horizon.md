@@ -8,7 +8,6 @@ tags:
 - FEZ
 - Electronics
 - Gadgeteer
-thumbnail: http://4.bp.blogspot.com/-XrxTo05-Nks/Tu6jSfn07fI/AAAAAAAAAQ8/1FhYV9jvRHM/s72-c/Cerberus.jpg
 ---
 Some information started to show up on the [forum](https://www.tinyclr.com/forum/21/5133/). It is about a new mysterious (well, not as mysterious now) offer from [GHI Electronics](https://www.ghielectronics.com/) - FEZ Cerberus. For now there is only this image available:
 

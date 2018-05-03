@@ -8,7 +8,6 @@ tags:
 - Kickstarter
 - Cortex-M3
 - Electronics
-thumbnail: http://2.bp.blogspot.com/-6KRZXUE2ppQ/UYr63bjIFMI/AAAAAAAAAcA/QPbUWD7S_o0/s72-c/photo-main.jpg
 ---
 I have been supporting some project on [KickStarter](https://www.kickstarter.com/) recently and I would like to mention some of these projects on this blog.
 

@@ -8,7 +8,6 @@ tags:
 - FEZ
 - Electronics
 - Fritzing
-thumbnail: http://1.bp.blogspot.com/-pEojC0WC7U4/ToUGDb7LMaI/AAAAAAAAAJ4/yk4B3Y-0yAk/s72-c/Fritzing_domino.png
 ---
 Finished another part for [FEZ Domino](https://www.ghielectronics.com/catalog/product/133)
 

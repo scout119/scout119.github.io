@@ -8,7 +8,6 @@ tags:
 - Electronics
 - FEZ Spider
 - Gadgeteer
-thumbnail: http://2.bp.blogspot.com/-zQY0PsnKcVQ/TpZvf-9grSI/AAAAAAAAANQ/6D0Y6RG6vp8/s72-c/IMG_3707.JPG
 ---
 This is my third module so far. It is the simplest one. It has no components beside the connector.
 

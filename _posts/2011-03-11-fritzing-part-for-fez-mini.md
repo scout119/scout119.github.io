@@ -8,7 +8,6 @@ tags:
 - FEZ
 - Electronics
 - Fritzing
-thumbnail: http://2.bp.blogspot.com/-pLFDH_0m1iQ/ToUEBLfTx1I/AAAAAAAAAJo/EOlQuwdFdd4/s72-c/Arduino.png
 ---
 When I was learning about Arduino, I always liked images that show how to connect different components to Arduino board. Like the one below:
 

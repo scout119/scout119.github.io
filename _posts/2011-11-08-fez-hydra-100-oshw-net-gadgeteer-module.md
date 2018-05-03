@@ -8,7 +8,6 @@ tags:
 - GHI Electronics
 - Electronics
 - Gadgeteer
-thumbnail: http://4.bp.blogspot.com/-7TXVaMi_Gp4/TrnpGn4F70I/AAAAAAAAAPc/ccLF13JrJq4/s72-c/fez_hydra_socket_map.png
 ---
 I wrote about FEZ Hydra in my last post and now we have all the [details](https://www.ghielectronics.com/catalog/product/328). It is 100% open source including hardware design as well as the port of .NET Microframework that can be compiled using GCC toolchain. According to Gus Issa, this board was designed with three main goals:
 

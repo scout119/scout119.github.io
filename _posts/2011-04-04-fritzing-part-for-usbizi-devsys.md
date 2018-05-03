@@ -8,7 +8,6 @@ tags:
 - FEZ
 - Electronics
 - Fritzing
-thumbnail: http://4.bp.blogspot.com/-YbdESPEqFMA/ToUGqZcMjJI/AAAAAAAAAJ8/kuX0EAsogDc/s72-c/Fritzin_USBizi_DevSys.jpg
 ---
 This is the last part (for now) for USBizi DevSys. The board is made by GHI Electronics. Some people still have this module, but you can't buy it anymore. I do have it and I would like to have a part for it.
 

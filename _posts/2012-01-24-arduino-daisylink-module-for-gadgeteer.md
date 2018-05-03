@@ -8,7 +8,6 @@ tags:
 - LED
 - Arduino
 - Gadgeteer
-thumbnail: http://4.bp.blogspot.com/-3HMXD2GiVWA/Tx5Y0fit9GI/AAAAAAAAATc/N3PJ_sO3hWY/s72-c/daisylink.jpg
 ---
 This is a proof of concept for Arduino based Gadgeteer DaisyLink module.The Gadgeteer DaisyLink protocol allows to chain up to 126 various modules on one socket. The protocol is based on I2C-based EEPROM interface.
 

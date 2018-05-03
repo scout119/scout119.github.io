@@ -10,7 +10,6 @@ tags:
 - C#
 - Electronics
 - Gadgeteer
-thumbnail: http://4.bp.blogspot.com/-w-i2lkxH3Zk/UfWtKr2nWNI/AAAAAAAAAeI/nWqeHM4rNB0/s72-c/448-0_large.jpg
 ---
 There were some talks on the [community forum pages](https://www.ghielectronics.com/community) about this device for awhile. I have been waiting for it with a great anticipation. Finally, a week ago we got the official [announcement](https://www.ghielectronics.com/community/forum/topic?id=12661).
 

@@ -4,7 +4,6 @@ title: Thecus N4100PRO NAS SABnzbd module
 date: '2010-01-17T17:49:00.000-05:00'
 author: Valentin Ivanov
 tags:
-thumbnail: http://2.bp.blogspot.com/-4aIAPXw84P4/ToOZI_mUzvI/AAAAAAAAAJU/D0hj-nPstWA/s72-c/NasSabnzbd.png
 ---
 I got Thecus N4100PRO NAS this summer and have been looking for a usenet module for it since then. Decided to do another search today and guess what I have found:
 

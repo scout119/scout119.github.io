@@ -3,8 +3,7 @@ layout: post
 title: Ice Tube Clock
 date: '2010-01-30T18:39:00.000-05:00'
 author: Valentin Ivanov
-tags: 
-thumbnail: http://4.bp.blogspot.com/-qb65hzDkK7c/ToOg7YIgO8I/AAAAAAAAAJY/-vfDYlCpX30/s72-c/chesapeake.jpg
+tags:
 ---
 January 30 was not a usual winter day for Chesapeake, VA.
 

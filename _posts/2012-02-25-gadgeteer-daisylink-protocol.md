@@ -8,7 +8,6 @@ tags:
 - GHI Electronics
 - Arduino
 - Gadgeteer
-thumbnail: http://2.bp.blogspot.com/-r0-2pBNd2Cs/TzBVwjDjdZI/AAAAAAAAAVE/N_PgesVTUZM/s72-c/DLChain.jpg
 ---
 If you have visited my blog before, you most likely know that I have built several modules for the Microsoft Gadgeteer platform. So far I have only tried simple modules (with the exception of POE module). What I haven't tried yet is a DaisyLink module. DaisyLink module is a special (smart) breed of modules because it has to have a dedicated controller in order to communicate with the main board. Recently I had a chance to finally built a module like that and I would like to share my experience in that area. There is a lot to write about, so I will do it in multiple posts. This is the first post where we look at the DaisyLink protocol.
 

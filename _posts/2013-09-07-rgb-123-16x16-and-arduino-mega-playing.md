@@ -8,7 +8,6 @@ tags:
 - LED
 - Arduino
 - Electronics
-thumbnail: http://2.bp.blogspot.com/-7Wq_tCv0xBw/UitoOS7jV5I/AAAAAAAAAgg/GpkHz_Yz5Tw/s72-c/matrix.jpg
 ---
 ![img1](https://2.bp.blogspot.com/-7Wq_tCv0xBw/UitoOS7jV5I/AAAAAAAAAgg/GpkHz_Yz5Tw/s1600/matrix.jpg)
 

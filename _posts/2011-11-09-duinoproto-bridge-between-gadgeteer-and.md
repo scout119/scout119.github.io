@@ -8,7 +8,6 @@ tags:
 - Arduino
 - Electronics
 - Gadgeteer
-thumbnail: http://2.bp.blogspot.com/-IEIuNi2JW28/TrsXRvGXcBI/AAAAAAAAAPk/MvHsLmDiE8c/s72-c/DuinoProto.jpg
 ---
 I am a big fun of the Microsoft Gadgeteer (if you have not figure it out by now :) ). Right now there is pretty much only one company in the US that is actively developing Gadgeteer modules and boards - [GHI Electronics](https://www.ghielectronics.com/catalog/category/265/). So I follow that company very closely. Today they put up another Gadgeteer related product - [DuinoProto](https://www.ghielectronics.com/catalog/product/319). It is not a Gadgeteer module (it doesn't follow the standard), but rather a solution that should help prototyping modules much easier and also should bridge the gap between Gadgeteer and existing shields and modules for Arduino(s). There are [other scenarios](https://wiki.tinyclr.com/index.php?title=DuinoProto) for using it as well.
 

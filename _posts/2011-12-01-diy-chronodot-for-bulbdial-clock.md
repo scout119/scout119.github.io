@@ -8,7 +8,6 @@ tags:
 - LED
 - Chronodot
 - Arduino
-thumbnail: http://1.bp.blogspot.com/-uY1CiJZiIHk/Txc9PT_2stI/AAAAAAAAATI/p6jbeUnjIGw/s72-c/3367455284_733ccbdb3a_b.jpg
 ---
 A friend from work gave me a really nice present this Christmas - [Bulbdial Clock Kit](https://www.evilmadscientist.com/article.php/bulbdialkit) made by [Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/). This clock is excellent addition to my collection of Ice Tube Clock and Monochron Clock. I have really enjoyed building it. It looks so cool with all its RGB LEDs. There is an optional component that you can add - a real time clock (RTC) with battery back up. It is called Chronodot RTC. All it does is ensure that clock is still ticking when main power source is removed, that way you don't have to reset the clock every time power cord is unplugged. A nice feature to have on any externally powered clock. You can buy one, but where is fun in that?! So I have decided to build my own. By the way this is what Chronodot looks like:
 

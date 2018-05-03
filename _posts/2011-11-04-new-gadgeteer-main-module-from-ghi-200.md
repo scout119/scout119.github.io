@@ -8,7 +8,6 @@ tags:
 - GHI Electronics
 - Electronics
 - Gadgeteer
-thumbnail: http://3.bp.blogspot.com/-YRzXSVMJRaw/TrQmAZBVAlI/AAAAAAAAAPE/l55645ANhF8/s72-c/Hydra.jpg
 ---
 The news has been on the forum for awhile now, but now we have a full image of the board.
 

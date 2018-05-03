@@ -7,7 +7,6 @@ tags:
 - IR LED
 - Electronics
 - Gadgeteer
-thumbnail: http://3.bp.blogspot.com/-URgHkqGeVpY/TxjhsSZDScI/AAAAAAAAATU/nUQXznZyvY0/s72-c/IRLEDArray3D_Straight_sm.png
 ---
 Andrew Duthie (aka Devhammer) is working on a very cool project involving infrared helicopter, Kinect and Gadgeteer. He needed a module for Gadgeteer to control his helicopter. Here is what he came up with:
 

@@ -8,7 +8,6 @@ tags:
 - FEZ
 - Electronics
 - Fritzing
-thumbnail: http://4.bp.blogspot.com/-3_x3V88aFqM/ToUFnrP1_tI/AAAAAAAAAJ0/t15BwH5G1Vk/s72-c/PandaII.jpg
 ---
 Here is the Fritzing part for [FEZ Panda II](https://www.ghielectronics.com/catalog/product/256)
 

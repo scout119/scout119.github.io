@@ -8,7 +8,6 @@ tags:
 - C#
 - Electronics
 - Gadgeteer
-thumbnail: http://3.bp.blogspot.com/-eOpl6GVJBok/UQCfRkbNUHI/AAAAAAAAAaE/c42NTRjK8CQ/s72-c/splash.bmp
 ---
 I wanted to have a good game for my [Gadgeteer Game Console](https://www.breakcontinue.com/2012/06/gadgeteer-game-console-using-wii.html). [Rick Dangerous](https://en.wikipedia.org/wiki/Rick_Dangerous) is an old classic game that I played long time ago and really liked.
 

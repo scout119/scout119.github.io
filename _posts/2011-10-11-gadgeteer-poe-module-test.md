@@ -8,7 +8,6 @@ tags:
 - Electronics
 - FEZ Spider
 - Gadgeteer
-thumbnail: http://1.bp.blogspot.com/-I8DuetNLjfw/TpPEwUeSVOI/AAAAAAAAAMM/CZah3H6UuE8/s72-c/IMG_20111010_181630.jpg
 ---
 Tonight I have tested the module. The test application gets [rss feed](https://www.ghielectronics.com/rss/) and shows first 4 entries on the display module. Everything worked as it should.
 
