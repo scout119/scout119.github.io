@@ -7,7 +7,7 @@ tags:
 - CyanogenMod
 - OnePlusOne
 - Android
-thumbnail: http://1.bp.blogspot.com/-M9ie4w3ZN7c/U-kLvB_TyyI/AAAAAAAABgI/7ZwsWANbrOI/s72-c/cm-camera.jpg
+image: /img/2014-08-11-oneplus-one-phone.jpg
 ---
 ![img1](https://1.bp.blogspot.com/-M9ie4w3ZN7c/U-kLvB_TyyI/AAAAAAAABgI/7ZwsWANbrOI/s1600/cm-camera.jpg)
 
