@@ -118,7 +118,7 @@ google_analytics: "UA-399624-19"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "breakcontinue"
 
 # Facebook App ID
 # fb_app_id: ""
