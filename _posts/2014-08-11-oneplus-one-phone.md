@@ -7,7 +7,7 @@ tags:
 - CyanogenMod
 - OnePlusOne
 - Android
-image: /img/2014-08-11-oneplus-one-phone.jpg
+image: /img/OnePlusOne.png
 ---
 ![img1](/img/2014-08-11-oneplus-one-phone.jpg)
 

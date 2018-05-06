@@ -77,6 +77,7 @@ social-network-links:
 #  reddit: yourname
 #  google-plus: +ValentinIvanov
   linkedin: valenivanov
+  cs: Architect
 #  xing: yourname
 #  stackoverflow: "3943160/yourname"
 #  snapchat: yourname
@@ -168,6 +169,7 @@ exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
+  - docker-compose.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE
@@ -183,6 +185,8 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
+    - _config.docker.yml
+    - docker-compose.yml
     - /_layouts
     - /_includes
     - /css
