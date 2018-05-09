@@ -5,7 +5,7 @@ date: '2018-05-06T15:23:57-04:00'
 author: Valentin Ivanov
 tags:
 image: /img/github-pages.png
-published: true
+published: false
 ---
 I have neglected my blog for quite a while. The Blogger platform that I have used before is good, but it is not exciting to go there and make new blog entries. I wanted a better, easier, natural way to edit and maintain the blog. By natural I mean something that fits my workflow. I am dealing with code every day. I use various developer tools and source control systems. So two major items in my developer workflow are:
 
