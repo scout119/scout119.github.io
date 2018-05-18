@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/scout119
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.breakcontinue.com
+  * I am scout119 (https://keybase.io/scout119) on keybase.
+  * I have a public key ASAl5p3HMzAgq2ixI9HskOnCzln-LjEdDRe26dDJrDBx6go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200cd24eb0c2711eb9f7832f5d3732f977bc9a066a820306318769ef1cae7ed0640a",
+      "host": "keybase.io",
+      "kid": "012025e69dc7333020ab68b123d1ec90e9c2ce59fe2e311d0d17b6e9d0c9ac3071ea0a",
+      "uid": "8f8b2b89a2b771559d2b6f6d61481719",
+      "username": "scout119"
+    },
+    "merkle_root": {
+      "ctime": 1526674090,
+      "hash": "014d973a31a8e347ff950d8f87523b27e35dd017ed238089b2baf6a5fb3f467c68113b36fd9bab83bb198c8d13f6bebed5f593f3aaa945fdce2fe373650e7ec1",
+      "hash_meta": "4b65a3a16695005682bc4ada0108d71d9c1d245f0c49177a878579bd9b0fd776",
+      "seqno": 2812415
+    },
+    "service": {
+      "entropy": "hnMH7D+5ycbMVWVqe4CL/W2B",
+      "hostname": "www.breakcontinue.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1526674106,
+  "expire_in": 504576000,
+  "prev": "4bb47c6bf1dc0b858359f5d3d85969e3e4ab3996b50a83f0f4cc571ddc3448c0",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJeadxzMwIKtosSPR7JDpws5Z/i4xHQ0XtunQyawwceoKp3BheWxvYWTESpcCEcQgS7R8a/HcC4WDWfXT2Flp4+SrOZa1CoPw9MxXHdw0SMDEIP0cQRyFsPYlldi0iSTeigZIGGbOmaPQF7x9ps9di48KAgHCo3NpZ8RAr1JavCLCWrnKBFNruNZALr6IEqSYVXE1IUT8HOb+KVCHcKBZ3QcbORlWzh+z56B5+HusLibMP3Yk0XuphtEVDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBET9uW50UI23EHacBRaTAJylph7fcDFZoWrTr2wn8yno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scout119
+
+==================================================================
