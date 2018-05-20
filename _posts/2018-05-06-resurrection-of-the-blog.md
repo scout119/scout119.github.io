@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resurrection of the olf blog using Jekyll
+title: Resurrection of the old blog using Jekyll
 date: '2018-05-06T15:23:57-04:00'
 author: Valentin Ivanov
 tags:
